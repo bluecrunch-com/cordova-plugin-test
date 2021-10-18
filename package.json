@@ -1,0 +1,17 @@
+{
+  "name": "bottar-ai",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for bottar.ai",
+  "main": "dist/main.js",
+  "author": "Zaid",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cordova-plugin-k-webrtc-permission": "^1.0.0",
+    "cxi-message-broker-client": "file:../cxi-message-broker-client"
+  },
+  "devDependencies": {
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
